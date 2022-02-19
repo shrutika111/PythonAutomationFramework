@@ -1,0 +1,88 @@
+2022-02-16 16:47:43,979 - test_signup.py:[16] - [INFO] - Test Do Sign up started
+2022-02-16 16:47:44,075 - BasePage.py:[33] - [INFO] - Typing in an element: name_XPATH value entered as : Rahul
+2022-02-16 16:47:44,160 - BasePage.py:[33] - [INFO] - Typing in an element: phone_XPATH value entered as : 8927342
+2022-02-16 16:47:44,276 - BasePage.py:[33] - [INFO] - Typing in an element: email_XPATH value entered as : shinde.abhijit012@gmail.com
+2022-02-16 16:47:44,344 - BasePage.py:[47] - [INFO] - Selecting from an element: country_XPATH value selected as : India
+2022-02-16 16:47:44,434 - BasePage.py:[33] - [INFO] - Typing in an element: city_XPATH value entered as : Delhi
+2022-02-16 16:47:44,542 - BasePage.py:[33] - [INFO] - Typing in an element: username_XPATH value entered as : shindeabhijit839@gmail.com
+2022-02-16 16:47:44,625 - BasePage.py:[33] - [INFO] - Typing in an element: password_XPATH value entered as : lsajdfksf
+2022-02-16 16:47:44,710 - BasePage.py:[23] - [INFO] - Clicking on an element: submit_XPATH
+2022-02-16 16:47:44,710 - test_signup.py:[19] - [INFO] - Test Do Sign up successfully executed
+2022-02-16 16:49:52,493 - test_signup.py:[16] - [INFO] - Test Do Sign up started
+2022-02-16 16:49:52,617 - BasePage.py:[33] - [INFO] - Typing in an element: name_XPATH value entered as : Rahul
+2022-02-16 16:49:52,701 - BasePage.py:[33] - [INFO] - Typing in an element: phone_XPATH value entered as : 8927342
+2022-02-16 16:49:52,800 - BasePage.py:[33] - [INFO] - Typing in an element: email_XPATH value entered as : shinde.abhijit012@gmail.com
+2022-02-16 16:49:52,848 - BasePage.py:[47] - [INFO] - Selecting from an element: country_XPATH value selected as : India
+2022-02-16 16:49:52,926 - BasePage.py:[33] - [INFO] - Typing in an element: city_XPATH value entered as : Delhi
+2022-02-16 16:49:53,023 - BasePage.py:[33] - [INFO] - Typing in an element: username_XPATH value entered as : shindeabhijit839@gmail.com
+2022-02-16 16:49:53,106 - BasePage.py:[33] - [INFO] - Typing in an element: password_XPATH value entered as : lsajdfksf
+2022-02-16 16:49:53,197 - BasePage.py:[23] - [INFO] - Clicking on an element: submit_XPATH
+2022-02-16 16:49:53,197 - test_signup.py:[19] - [INFO] - Test Do Sign up successfully executed
+2022-02-16 16:52:38,594 - test_carwale.py:[61] - [INFO] - ******Inside Car Names and Prices Test*********
+2022-02-16 16:52:53,559 - test_carwale.py:[61] - [INFO] - ******Inside Car Names and Prices Test*********
+2022-02-16 16:53:17,945 - test_signup.py:[16] - [INFO] - Test Do Sign up started
+2022-02-16 16:53:18,050 - BasePage.py:[33] - [INFO] - Typing in an element: name_XPATH value entered as : Rahul
+2022-02-16 16:53:18,126 - BasePage.py:[33] - [INFO] - Typing in an element: phone_XPATH value entered as : 8927342
+2022-02-16 16:53:18,238 - BasePage.py:[33] - [INFO] - Typing in an element: email_XPATH value entered as : shinde.abhijit012@gmail.com
+2022-02-16 16:53:18,311 - BasePage.py:[47] - [INFO] - Selecting from an element: country_XPATH value selected as : India
+2022-02-16 16:53:18,400 - BasePage.py:[33] - [INFO] - Typing in an element: city_XPATH value entered as : Delhi
+2022-02-16 16:53:18,509 - BasePage.py:[33] - [INFO] - Typing in an element: username_XPATH value entered as : shindeabhijit839@gmail.com
+2022-02-16 16:53:18,694 - BasePage.py:[33] - [INFO] - Typing in an element: password_XPATH value entered as : lsajdfksf
+2022-02-16 16:53:18,824 - BasePage.py:[23] - [INFO] - Clicking on an element: submit_XPATH
+2022-02-16 16:53:18,824 - test_signup.py:[19] - [INFO] - Test Do Sign up successfully executed
+2022-02-16 16:53:21,047 - test_carwale.py:[61] - [INFO] - ******Inside Car Names and Prices Test*********
+2022-02-16 16:53:38,787 - test_carwale.py:[61] - [INFO] - ******Inside Car Names and Prices Test*********
+2022-02-16 16:54:22,767 - test_carwale.py:[61] - [INFO] - ******Inside Car Names and Prices Test*********
+2022-02-16 16:54:43,483 - test_carwale.py:[61] - [INFO] - ******Inside Car Names and Prices Test*********
+2022-02-16 16:55:00,311 - test_carwale.py:[61] - [INFO] - ******Inside Car Names and Prices Test*********
+2022-02-16 16:55:18,882 - test_carwale.py:[61] - [INFO] - ******Inside Car Names and Prices Test*********
+2022-02-16 16:55:33,766 - test_signup.py:[16] - [INFO] - Test Do Sign up started
+2022-02-16 16:55:33,851 - BasePage.py:[33] - [INFO] - Typing in an element: name_XPATH value entered as : Rahul
+2022-02-16 16:55:33,940 - BasePage.py:[33] - [INFO] - Typing in an element: phone_XPATH value entered as : 8927342
+2022-02-16 16:55:34,018 - BasePage.py:[33] - [INFO] - Typing in an element: email_XPATH value entered as : shinde.abhijit012@gmail.com
+2022-02-16 16:55:34,053 - BasePage.py:[47] - [INFO] - Selecting from an element: country_XPATH value selected as : India
+2022-02-16 16:55:34,109 - BasePage.py:[33] - [INFO] - Typing in an element: city_XPATH value entered as : Delhi
+2022-02-16 16:55:34,237 - BasePage.py:[33] - [INFO] - Typing in an element: username_XPATH value entered as : shindeabhijit839@gmail.com
+2022-02-16 16:55:34,322 - BasePage.py:[33] - [INFO] - Typing in an element: password_XPATH value entered as : lsajdfksf
+2022-02-16 16:55:34,389 - BasePage.py:[23] - [INFO] - Clicking on an element: submit_XPATH
+2022-02-16 16:55:34,390 - test_signup.py:[19] - [INFO] - Test Do Sign up successfully executed
+2022-02-16 16:56:51,888 - test_signup.py:[16] - [INFO] - Test Do Sign up started
+2022-02-16 16:56:51,984 - BasePage.py:[33] - [INFO] - Typing in an element: name_XPATH value entered as : Rahul
+2022-02-16 16:56:52,068 - BasePage.py:[33] - [INFO] - Typing in an element: phone_XPATH value entered as : 8927342
+2022-02-16 16:56:52,172 - BasePage.py:[33] - [INFO] - Typing in an element: email_XPATH value entered as : shinde.abhijit012@gmail.com
+2022-02-16 16:56:52,234 - BasePage.py:[47] - [INFO] - Selecting from an element: country_XPATH value selected as : India
+2022-02-16 16:56:52,318 - BasePage.py:[33] - [INFO] - Typing in an element: city_XPATH value entered as : Delhi
+2022-02-16 16:56:52,427 - BasePage.py:[33] - [INFO] - Typing in an element: username_XPATH value entered as : shindeabhijit839@gmail.com
+2022-02-16 16:56:52,506 - BasePage.py:[33] - [INFO] - Typing in an element: password_XPATH value entered as : lsajdfksf
+2022-02-16 16:56:52,587 - BasePage.py:[23] - [INFO] - Clicking on an element: submit_XPATH
+2022-02-16 16:56:52,587 - test_signup.py:[19] - [INFO] - Test Do Sign up successfully executed
+2022-02-16 17:31:23,391 - test_signup.py:[16] - [INFO] - Test Do Sign up started
+2022-02-16 17:31:23,568 - BasePage.py:[33] - [INFO] - Typing in an element: name_XPATH value entered as : Rahul
+2022-02-16 17:31:23,656 - BasePage.py:[33] - [INFO] - Typing in an element: phone_XPATH value entered as : 8927342
+2022-02-16 17:31:23,760 - BasePage.py:[33] - [INFO] - Typing in an element: email_XPATH value entered as : shinde.abhijit012@gmail.com
+2022-02-16 17:31:23,831 - BasePage.py:[47] - [INFO] - Selecting from an element: country_XPATH value selected as : India
+2022-02-16 17:31:23,919 - BasePage.py:[33] - [INFO] - Typing in an element: city_XPATH value entered as : Delhi
+2022-02-16 17:31:24,032 - BasePage.py:[33] - [INFO] - Typing in an element: username_XPATH value entered as : shindeabhijit839@gmail.com
+2022-02-16 17:31:24,114 - BasePage.py:[33] - [INFO] - Typing in an element: password_XPATH value entered as : lsajdfksf
+2022-02-16 17:31:24,189 - BasePage.py:[23] - [INFO] - Clicking on an element: submit_XPATH
+2022-02-16 17:31:24,190 - test_signup.py:[19] - [INFO] - Test Do Sign up successfully executed
+2022-02-16 17:33:49,891 - test_signup.py:[16] - [INFO] - Test Do Sign up started
+2022-02-16 17:33:50,028 - BasePage.py:[33] - [INFO] - Typing in an element: name_XPATH value entered as : Rahul
+2022-02-16 17:33:50,104 - BasePage.py:[33] - [INFO] - Typing in an element: phone_XPATH value entered as : 8927342
+2022-02-16 17:33:50,233 - BasePage.py:[33] - [INFO] - Typing in an element: email_XPATH value entered as : shinde.abhijit012@gmail.com
+2022-02-16 17:33:50,300 - BasePage.py:[47] - [INFO] - Selecting from an element: country_XPATH value selected as : India
+2022-02-16 17:33:50,386 - BasePage.py:[33] - [INFO] - Typing in an element: city_XPATH value entered as : Delhi
+2022-02-16 17:33:50,496 - BasePage.py:[33] - [INFO] - Typing in an element: username_XPATH value entered as : shindeabhijit839@gmail.com
+2022-02-16 17:33:50,587 - BasePage.py:[33] - [INFO] - Typing in an element: password_XPATH value entered as : lsajdfksf
+2022-02-16 17:33:50,665 - BasePage.py:[23] - [INFO] - Clicking on an element: submit_XPATH
+2022-02-16 17:33:50,666 - test_signup.py:[19] - [INFO] - Test Do Sign up successfully executed
+2022-02-16 17:50:24,335 - test_signup.py:[16] - [INFO] - Test Do Sign up started
+2022-02-16 17:50:24,469 - BasePage.py:[33] - [INFO] - Typing in an element: name_XPATH value entered as : Rahul
+2022-02-16 17:50:24,539 - BasePage.py:[33] - [INFO] - Typing in an element: phone_XPATH value entered as : 8927342
+2022-02-16 17:50:24,660 - BasePage.py:[33] - [INFO] - Typing in an element: email_XPATH value entered as : shinde.abhijit012@gmail.com
+2022-02-16 17:50:24,719 - BasePage.py:[47] - [INFO] - Selecting from an element: country_XPATH value selected as : India
+2022-02-16 17:50:24,814 - BasePage.py:[33] - [INFO] - Typing in an element: city_XPATH value entered as : Delhi
+2022-02-16 17:50:24,921 - BasePage.py:[33] - [INFO] - Typing in an element: username_XPATH value entered as : shindeabhijit839@gmail.com
+2022-02-16 17:50:25,000 - BasePage.py:[33] - [INFO] - Typing in an element: password_XPATH value entered as : lsajdfksf
+2022-02-16 17:50:25,079 - BasePage.py:[23] - [INFO] - Clicking on an element: submit_XPATH
+2022-02-16 17:50:25,079 - test_signup.py:[19] - [INFO] - Test Do Sign up successfully executed

@@ -1,0 +1,20 @@
+2022-02-19 22:56:59,763 - test_signup.py:[16] - [INFO] - Test Do Sign up started
+2022-02-19 22:56:59,865 - BasePage.py:[33] - [INFO] - Typing in an element: name_XPATH value entered as : Rahul
+2022-02-19 22:56:59,978 - BasePage.py:[33] - [INFO] - Typing in an element: phone_XPATH value entered as : 8927342
+2022-02-19 22:57:00,085 - BasePage.py:[33] - [INFO] - Typing in an element: email_XPATH value entered as : shinde.abhijit012@gmail.com
+2022-02-19 22:57:00,148 - BasePage.py:[47] - [INFO] - Selecting from an element: country_XPATH value selected as : India
+2022-02-19 22:57:00,250 - BasePage.py:[33] - [INFO] - Typing in an element: city_XPATH value entered as : Delhi
+2022-02-19 22:57:00,384 - BasePage.py:[33] - [INFO] - Typing in an element: username_XPATH value entered as : shindeabhijit839@gmail.com
+2022-02-19 22:57:00,533 - BasePage.py:[33] - [INFO] - Typing in an element: password_XPATH value entered as : lsajdfksf
+2022-02-19 22:57:00,682 - BasePage.py:[23] - [INFO] - Clicking on an element: submit_XPATH
+2022-02-19 22:57:00,682 - test_signup.py:[19] - [INFO] - Test Do Sign up successfully executed
+2022-02-19 23:19:05,351 - test_signup.py:[16] - [INFO] - Test Do Sign up started
+2022-02-19 23:19:05,525 - BasePage.py:[33] - [INFO] - Typing in an element: name_XPATH value entered as : Rahul
+2022-02-19 23:19:05,617 - BasePage.py:[33] - [INFO] - Typing in an element: phone_XPATH value entered as : 8927342
+2022-02-19 23:19:05,722 - BasePage.py:[33] - [INFO] - Typing in an element: email_XPATH value entered as : shinde.abhijit012@gmail.com
+2022-02-19 23:19:05,783 - BasePage.py:[47] - [INFO] - Selecting from an element: country_XPATH value selected as : India
+2022-02-19 23:19:05,878 - BasePage.py:[33] - [INFO] - Typing in an element: city_XPATH value entered as : Delhi
+2022-02-19 23:19:05,992 - BasePage.py:[33] - [INFO] - Typing in an element: username_XPATH value entered as : shindeabhijit839@gmail.com
+2022-02-19 23:19:06,079 - BasePage.py:[33] - [INFO] - Typing in an element: password_XPATH value entered as : lsajdfksf
+2022-02-19 23:19:06,247 - BasePage.py:[23] - [INFO] - Clicking on an element: submit_XPATH
+2022-02-19 23:19:06,247 - test_signup.py:[19] - [INFO] - Test Do Sign up successfully executed
